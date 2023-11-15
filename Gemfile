@@ -18,5 +18,5 @@ end
 group :test do
   gem "rake"
   gem "chef"
-  gem "foodcritic"
+  gem "foodcritic", ">= 4.0.0"
 end
